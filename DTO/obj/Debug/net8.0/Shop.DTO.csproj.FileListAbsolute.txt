@@ -1,0 +1,15 @@
+C:\Users\win10\Desktop\BackShop\DTO\bin\Debug\net8.0\Shop.DTO.deps.json
+C:\Users\win10\Desktop\BackShop\DTO\bin\Debug\net8.0\Shop.DTO.dll
+C:\Users\win10\Desktop\BackShop\DTO\bin\Debug\net8.0\Shop.DTO.pdb
+C:\Users\win10\Desktop\BackShop\DTO\bin\Debug\net8.0\Shop.DAL.dll
+C:\Users\win10\Desktop\BackShop\DTO\bin\Debug\net8.0\Shop.DAL.pdb
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.AssemblyInfo.cs
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.csproj.Up2Date
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.dll
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\refint\Shop.DTO.dll
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\Shop.DTO.pdb
+C:\Users\win10\Desktop\BackShop\DTO\obj\Debug\net8.0\ref\Shop.DTO.dll
