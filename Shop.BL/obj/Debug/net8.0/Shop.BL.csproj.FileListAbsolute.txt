@@ -1,0 +1,17 @@
+C:\Users\win10\Desktop\BackShop\Shop.BL\bin\Debug\net8.0\Shop.BL.deps.json
+C:\Users\win10\Desktop\BackShop\Shop.BL\bin\Debug\net8.0\Shop.BL.dll
+C:\Users\win10\Desktop\BackShop\Shop.BL\bin\Debug\net8.0\Shop.BL.pdb
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.AssemblyInfoInputs.cache
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.AssemblyInfo.cs
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.csproj.CoreCompileInputs.cache
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.dll
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\refint\Shop.BL.dll
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.pdb
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\ref\Shop.BL.dll
+C:\Users\win10\Desktop\BackShop\Shop.BL\bin\Debug\net8.0\Shop.DAL.dll
+C:\Users\win10\Desktop\BackShop\Shop.BL\bin\Debug\net8.0\Shop.DAL.pdb
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.csproj.AssemblyReference.cache
+C:\Users\win10\Desktop\BackShop\Shop.BL\obj\Debug\net8.0\Shop.BL.csproj.Up2Date
+C:\Users\win10\Desktop\BackShop\Shop.BL\bin\Debug\net8.0\Shop.DTO.dll
+C:\Users\win10\Desktop\BackShop\Shop.BL\bin\Debug\net8.0\Shop.DTO.pdb
