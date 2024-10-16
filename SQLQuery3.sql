@@ -1,0 +1,4 @@
+CREATE TABLE Categories (
+Categories INT PRIMARY KEY IDENTITY (1,1),
+CategoryName NVARCHAR (255) NOT NULL UNIQUE
+);
